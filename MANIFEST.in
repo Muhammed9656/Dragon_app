@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include dragon_app *.css
+recursive-include dragon_app *.csv
+recursive-include dragon_app *.html
+recursive-include dragon_app *.ico
+recursive-include dragon_app *.js
+recursive-include dragon_app *.json
+recursive-include dragon_app *.md
+recursive-include dragon_app *.png
+recursive-include dragon_app *.py
+recursive-include dragon_app *.svg
+recursive-include dragon_app *.txt
+recursive-exclude dragon_app *.pyc
