@@ -1,0 +1,44 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-09-23 15:22:42.017198",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "fghj",
+  "cvbn",
+  "ghjkl"
+ ],
+ "fields": [
+  {
+   "fieldname": "fghj",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Fghj"
+  },
+  {
+   "fieldname": "cvbn",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "CVBN"
+  },
+  {
+   "fieldname": "ghjkl",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ghjkl"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-09-23 15:22:42.017198",
+ "modified_by": "Administrator",
+ "module": "PROGRAMING",
+ "name": "Child Doctype",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
